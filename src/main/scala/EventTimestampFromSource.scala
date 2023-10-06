@@ -34,6 +34,8 @@ object EventTimestampFromSource {
         }
       )
 
+    //Adding new line to test Github access from Scala code
+    
     // print the stream to the console
     sensorData.print()
 
